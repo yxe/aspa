@@ -1,0 +1,53 @@
+/* roboto-regular - latin */
+@font-face {
+  font-display: swap;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  src: url('/wp-content/themes/aspa/assets/fonts/roboto-v48-latin-regular.woff2') format('woff2');
+}
+
+/* roboto-italic - latin */
+@font-face {
+  font-display: swap;
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 400;
+  src: url('/wp-content/themes/aspa/assets/fonts/roboto-v48-latin-italic.woff2') format('woff2');
+}
+
+/* roboto-700 - latin */
+@font-face {
+  font-display: swap;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  src: url('/wp-content/themes/aspa/assets/fonts/roboto-v48-latin-700.woff2') format('woff2');
+}
+
+/* roboto-700italic - latin */
+@font-face {
+  font-display: swap;
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 700;
+  src: url('/wp-content/themes/aspa/assets/fonts/roboto-v48-latin-700italic.woff2') format('woff2');
+}
+
+/* roboto-condensed-700 - latin */
+@font-face {
+  font-display: swap;
+  font-family: 'Roboto Condensed';
+  font-style: normal;
+  font-weight: 700;
+  src: url('/wp-content/themes/aspa/assets/fonts/roboto-condensed-v30-latin-700.woff2') format('woff2');
+}
+
+/* roboto-condensed-900 - latin */
+@font-face {
+  font-display: swap;
+  font-family: 'Roboto Condensed';
+  font-style: normal;
+  font-weight: 900;
+  src: url('/wp-content/themes/aspa/assets/fonts/roboto-condensed-v30-latin-900.woff2') format('woff2');
+}
